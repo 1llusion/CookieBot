@@ -1,4 +1,12 @@
 # CookieBot
 Automate Cookie Clicker
 
-Run with python3 CookieBot.py
+Create Anaconda environment
+```
+conda env create -f environment.yml
+```
+
+Run
+```
+python3 CookieBot.py
+```
